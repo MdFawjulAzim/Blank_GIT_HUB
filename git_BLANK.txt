@@ -1,67 +1,37 @@
-Hello,ami fawjul Azim..
-i am A web Developer...
-full stack developer
-he is a pro developer
-why i am developer
+Hello, I’m Faw jul Az im.
+I’m a Full-Stack Web Developer, and I’m passionate about coding.
+He (a colleague/friend?) is also a professional developer.
 
+Why Am I a Developer?
+You might wonder—why did I choose to be a developer?
+The answer is simple: I love creating and problem-solving.
 
-why i am developer
+My Work & Projects
+I push code from VS Code to GitHub with excitement!
 
-you can found it ..
-why i am developer
+I’m the Team Leader of my project.
 
-How i excited to push vs code to git hub...
+Started a new project on 29-04-2025.
 
-I'm team leader of my project
-
-i started at New Project 29-04-25
-
-
-next movie
-
-assalamualaikum
-
-now i call my friend
-
-now i go to abc school..
-i read in Bcs ..
-i woke up at 9am today...\
-now i am so excited...
-i already confused for job life..
-i always try best for coding skill..
-today i can offer a job letter.
-
-my job interview after eid ul azhar
-
-
-okay.now i gap today
-
-today i am very sick
-but i work heard..
-
-
->>today..we are offer new project...
-now i am cross exam paper
-
-
-Hello, I am Fawjul Azim.
-I am a web developer — a full-stack developer.
-He is also a pro developer.
-Why am I a developer?
-
-Why am I a developer?
-You can figure it out — why am I a developer?
-
-I’m so excited to push code from VS Code to GitHub!
-I am the team leader of my project.
-I started a new project on 29-04-2025.
-
-**Next topic:** movie.
-
-Now I go to ABC School.
+Daily Life & Studies
 I study BCS (Bachelor of Computer Science).
-I woke up at 9 a.m. today.
-Now, I’m very excited.
-I’m already feeling confused about job life.
+
+I attend ABC School.
+
+Today, I woke up at 9 AM and felt very motivated.
+
+Job & Career Thoughts
+Sometimes, I feel confused about job life, but I keep pushing forward.
+
 I always try my best to improve my coding skills.
-Today, I might receive a job offer letter.
+
+I might receive a job offer letter soon!
+
+My next job interview is after Eid-ul-Azha.
+
+Personal Updates
+Next plan: Watching a movie.
+
+Today: I’m feeling a bit sick, but I’m still working hard.
+
+Currently: Checking exam papers.
