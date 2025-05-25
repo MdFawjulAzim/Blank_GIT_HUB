@@ -65,3 +65,5 @@ again one day gap
 today is 18/05/2025
 
 next time i try my best
+
+hello new code on vscode
