@@ -1,128 +1,50 @@
-Hello, I’m Faw jul Az im.
-I’m a Full-Stack Web Developer, and I’m passionate about coding.
-He (a colleague/friend?) is also a professional developer.
-
-Why Am I a Developer?
-You might wonder—why did I choose to be a developer?
-The answer is simple: I love creating and problem-solving.
-
-My Work & Projects
-I push code from VS Code to GitHub with excitement!
-
-I’m the Team Leader of my project.
-
-Started a new project on 29-04-2025.
-
-Daily Life & Studies
-I study BCS (Bachelor of Computer Science).
-
-I attend ABC School.
-
-Today, I woke up at 9 AM and felt very motivated.
-
-Job & Career Thoughts
-Sometimes, I feel confused about job life, but I keep pushing forward.
-
-I always try my best to improve my coding skills.
-
-I might receive a job offer letter soon!
-
-My next job interview is after Eid-ul-Azha.
-
-Personal Updates
-Next plan: Watching a movie.
-
-Today: I’m feeling a bit sick, but I’m still working hard.
-
-Currently: Checking exam papers.
-
-
-hello,welcome again
-bcz after long time i am back
-
-
-now we are ready document for job 
-
-job location 
-hello developer
-i am really happy ...
-
-are you happy?
-
-i realized i am broken ...
-okay...
-
-
-today 20 i got new memories...
-
-thn i am complete a degree
-
-
-
-
-hello new developer
-again one day gap
-today is 18/05/2025
-
-next time i try my best
-
-hello new code on vscode
-
-
-
-🌐 Fawjul Azim
-Full-Stack Web Developer | Passionate Coder | Team Leader
-
-👨‍💻 About Me
-Hello! I’m Faw jul Az im, a dedicated Full-Stack Web Developer with a deep passion for coding, problem-solving, and building impactful web applications. I believe every line of code is a step toward solving real-world challenges.
-
-❓ Why Am I a Developer?
-I chose this path because I genuinely love creating. From building apps to debugging, I enjoy every bit of the journey. Problem-solving gives me a thrill, and development lets me express that passion every day.
-
-🚀 Projects & Work
-Regularly code with VS Code and push updates to GitHub
-
-Serve as the Team Leader in current projects
-
-Started a new project on 29-04-2025
-
-Currently working on a fresh codebase as of 18/05/2025
-
-🎓 Education
-Pursuing Bachelor of Computer Science (BCS)
-
-Studying at ABC School
-
-Recently completed a degree and continuing to grow academically
-
-🧠 Daily Life & Thoughts
-Woke up at 9 AM today feeling motivated
-
-Currently checking exam papers
-
-Even when feeling a bit under the weather, I keep moving forward
-
-💼 Career & Job Journey
-Sometimes feel confused about job life—but I never stop trying
-
-Improving my skills every day
-
-Might receive a job offer soon
-
-Preparing for my next interview after Eid-ul-Azha...
-
-Actively writing new code and learning with every project
-
-🎬 Personal Notes
-Next plan: Watch a movie
-
-Recently created new memories (20th)—growth is personal and professional
-
-I may feel broken at times, but I'm still standing and coding
-
-I’ve realized: Consistency and belief are my real strengths
-
-🙌 Final Words
-Hello to all developers out there 👋
-I’m really happy to be back, refreshed, and ready to push forward.
-Let’s continue building, learning, and making a difference—one line of code at a time.
+{
+  "name": "Fawjul Azim",
+  "title": "Full-Stack Web Developer | Passionate Coder | Team Leader",
+  "about": "Hello! I'm Fawjul Azim, a dedicated Full-Stack Web Developer with a deep passion for coding, problem-solving, and building impactful web applications. I believe every line of code is a step toward solving real-world challenges.",
+  "why_developer": "I chose this path because I genuinely love creating. From building apps to debugging, I enjoy every bit of the journey. Problem-solving gives me a thrill, and development lets me express that passion every day.",
+  "projects_work": [
+    "Regularly code with VS Code and push updates to GitHub",
+    "Serve as the Team Leader in current projects",
+    "Started a new project on April 29, 2025",
+    "Currently working on a fresh codebase as of May 18, 2025"
+  ],
+  "education": [
+    "Pursuing Bachelor of Computer Science (BCS)",
+    "Studying at ABC School",
+    "Recently completed a degree and continuing to grow academically"
+  ],
+  "daily_life_thoughts": [
+    "Woke up at 9 AM today feeling motivated",
+    "Currently checking exam papers",
+    "Even when feeling a bit under the weather, I keep moving forward"
+  ],
+  "career_job_journey": [
+    "Sometimes feel confused about job life—but I never stop trying",
+    "Improving my skills every day",
+    "Might receive a job offer soon",
+    "Preparing for my next interview after Eid-ul-Azha...",
+    "Actively writing new code and learning with every project"
+  ],
+  "personal_notes": [
+    "Next plan: Watch a movie",
+    "Recently created new memories (20th)—growth is personal and professional",
+    "I may feel broken at times, but I'm still standing and coding",
+    "I've realized: Consistency and belief are my real strengths"
+  ],
+  "final_words": "Hello to all developers out there 👋 I'm really happy to be back, refreshed, and ready to push forward. Let's continue building, learning, and making a difference—one line of code at a time.",
+  "project_updates": {
+    "date": "November 24, 2025",
+    "projects": {
+      "POS": [
+        "Remove shadow effects from login buttons for a cleaner UI",
+        "Add POS link conditionally based on Redux state",
+        "Full project check and bug fixed"
+      ],
+      "ERP-Inventory": [],
+      "Erp-single Store": [
+        "Full project check and bug noted"
+      ]
+    }
+  }
+}
