@@ -34,7 +34,7 @@
   ],
   "final_words": "Hello to all developers out there 👋 I'm really happy to be back, refreshed, and ready to push forward. Let's continue building, learning, and making a difference—one line of code at a time.",
   "project_updates": {
-    "date": "November 24, 2025",
+    "date": "November 27, 2025",
     "projects": {
       "POS": [
         "Remove shadow effects from login buttons for a cleaner UI",
@@ -44,6 +44,13 @@
       "ERP-Inventory": [],
       "Erp-single Store": [
         "Full project check and bug noted"
+      ],
+      "LMS": [
+        "Implement video upload functionality with chunked uploads and update lecture management",
+        "Enhance video upload functionality in course modals with progress indicators and file selection feedback",
+        "Add YouTube video URL input and preview functionality in course creation modal",
+        "Refactor updateLecture method to use deleteExistingFile for stream_video deletion",
+        "Add video link preview for uploaded lectures in course section"
       ]
     }
   }
