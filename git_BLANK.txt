@@ -34,7 +34,7 @@
   ],
   "final_words": "Hello to all developers out there 👋 I'm really happy to be back, refreshed, and ready to push forward. Let's continue building, learning, and making a difference—one line of code at a time.",
   "project_updates": {
-    "date": "November 27, 2025",
+    "date": "December 6, 2025",
     "projects": {
       "POS": [
         "Remove shadow effects from login buttons for a cleaner UI",
